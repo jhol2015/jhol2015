@@ -98,6 +98,7 @@ exp:      16+ years — PT · Softtek · Cast Group · internacional
 | 02 | 🎫 E-ATENDE Service Desk | HTML · CSS · JS | ✅ Done |
 | 03 | 🏛️ SAC — Portal do Cidadão | Requirements · SRS | ✅ Done |
 | 04 | 🔌 GLPI API Extractor | Python · REST | ✅ Done |
+| 05 | 🔄 GOV-OS | Rust · Preact . Postgres . Python | 🟡 WIP |
 
 ---
 
