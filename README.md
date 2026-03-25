@@ -94,7 +94,7 @@ exp:      16+ years — PT · Softtek · Cast Group · internacional
 
 | # | Project | Stack | Status |
 |---|---------|-------|--------|
-| 01 | 📊 MeusIndicadores Dashboard | OutSystems 11 Reactive | 🟡 WIP |
+| 01 | 📊 Meus Indicadores Dashboard | OutSystems 11 Reactive | 🟡 WIP |
 | 02 | 🎫 E-ATENDE Service Desk | HTML · CSS · JS | ✅ Done |
 | 03 | 🏛️ SAC — Portal do Cidadão | Requirements · SRS | ✅ Done |
 | 04 | 🔌 GLPI API Extractor | Python · REST | ✅ Done |
