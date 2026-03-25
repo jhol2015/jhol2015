@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-## 🐍 Jogo da Cobrinha Infinito
+<!-- Cobrinha animada infinita no README -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
+</p>
 
-<div align="center">
-
-[![Jogar Agora](https://img.shields.io/badge/🎮_JOGAR_AGORA-00FF00?style=for-the-badge&logo=javascript&logoColor=black)](https://seuusername.github.io/seurepo/snake)
-
-**Controles:** Setas do teclado ↑ ↓ ← →  
-**Objetivo:** Coma as comidas e sobreviva o máximo possível (modo infinito)
-
-</div>
+<!-- Ou uma versão customizada com cores diferentes -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seuusuario/seurepo/output/github-contribution-grid-snake-dark.svg">
+    <img alt="snake" src="https://raw.githubusercontent.com/seuusuario/seurepo/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
